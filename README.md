@@ -1,4 +1,4 @@
-## <a href="https://sanjaymenon.xyz/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hi there
+## <a href="https://sanjaymenon.xyz/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"></a> Hi there
 
 - ⚡ &nbsp;My name is Sanjaymenon
 - 👨‍💻 &nbsp;I'm a Bug Bounty Hunter, Security Researcher
